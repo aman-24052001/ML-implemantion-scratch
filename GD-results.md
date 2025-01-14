@@ -1,11 +1,6 @@
 Model Performance Metrics:
-+-----------+----------+------------+
-| Dataset   |      MSE |   R² Score |
-+===========+==========+============+
-| Training  |  72.9225 |     0.9564 |
-+-----------+----------+------------+
-| Testing   | 104.2023 |     0.9374 |
-+-----------+----------+------------+
+![image](https://github.com/user-attachments/assets/d36aa4c6-e3e5-4cfa-a8ef-d78c57a80a34)
+
 
 ![download](https://github.com/user-attachments/assets/a670f4ff-2dc6-412d-8884-4e9b22124648)
 
