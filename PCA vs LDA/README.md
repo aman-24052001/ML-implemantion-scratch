@@ -97,7 +97,7 @@ LDA is a supervised dimensionality reduction technique that finds a linear combi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dimensionality-reduction.git
+git clone https://github.com/aman-24052001/ML-implementation-scratch/PCA vs LDA/.git
 
 # Install required packages
 pip install numpy pandas matplotlib scikit-learn
